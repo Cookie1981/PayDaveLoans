@@ -1,0 +1,5 @@
+C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculator\bin\Debug\LoanCalculator.dll
+C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculator\obj\Debug\LoanCalculator.csprojResolveAssemblyReference.cache
+C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculator\obj\Debug\LoanCalculator.dll
+C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculator\obj\Debug\LoanCalculator.pdb
