@@ -1,0 +1,6 @@
+*.suo
+*.user
+PayDaveLoans/LoanCalculatorTests/bin
+PayDaveLoans/LoanCalculatorTests/obj
+PayDaveLoans/LoanCalculator/bin
+PayDaveLoans/LoanCalculator/obj

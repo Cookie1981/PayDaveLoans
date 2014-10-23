@@ -1,9 +1,0 @@
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\bin\Debug\LoanCalculatorTests.dll
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\bin\Debug\LoanCalculatorTests.pdb
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\bin\Debug\LoanCalculator.dll
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\bin\Debug\nunit.framework.dll
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\bin\Debug\LoanCalculator.pdb
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\bin\Debug\nunit.framework.xml
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\obj\Debug\LoanCalculatorTests.csprojResolveAssemblyReference.cache
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\obj\Debug\LoanCalculatorTests.dll
-C:\dev\PayDavesLoans\PayDavesLoans\LoanCalculatorTests\obj\Debug\LoanCalculatorTests.pdb
